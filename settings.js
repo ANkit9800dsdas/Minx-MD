@@ -17,7 +17,7 @@ global.APIs = {
 
 //Api Key\\
 global.APIKeys = {
-	'https://zenzapis.xyz': 'sanzychan01', //credit goes to sanzy yt, if api key expire, buy it and put it here?\\
+	'https://zenzapis.xyz': 'Ankit', //credit goes to sanzy yt, if api key expire, buy it and put it here?\\
 }
 
 //customize settings\\
@@ -30,7 +30,7 @@ global.footer = 'iiuzi Bot Inc.'
 global.ig = 'https://github.com/iiuzi-0x'
 global.region = 'India, kerala ,mlp'
 global.sc = 'https://github.com/iiuzi-0x/Minx-MD'
-global.myweb = 'https://youtu.be/kb1cGKUo-Jg'
+global.myweb = 'https://youtu.be/'
 global.packname = 'Minx Bot'
 global.author = '🦄Dream Guy iiuzi'
 global.sessionName = 'session'
